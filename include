@@ -1,0 +1,8 @@
+#ifndef include_header
+#define include_header
+
+#include "struct.h"
+#include "define.h"
+#include "test_bookmark/define.h"
+
+#endif
